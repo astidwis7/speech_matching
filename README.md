@@ -6,4 +6,4 @@ The conformity of the pronunciation of the Hijaiyah letters can be determined by
 
 ### Languages and Tools
 
-- Python : TensorFlow, NumPy, Matplotlib
+Python : TensorFlow, NumPy, Matplotlib
